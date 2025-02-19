@@ -1,2 +1,2 @@
 # Exploratory-data-analysis
-This repository contains supermarket sales dataset
+This repository contains a performance dataset
