@@ -1,2 +1,2 @@
 # Exploratory-data-analysis
-This repository contains a performance dataset
+This repository contains a performance optimization dataset
